@@ -2,13 +2,10 @@
   "name": "toonclash-bot",
   "version": "2.0.0",
   "description": "ToonClash Bot version 2",
-  "main": "--harmoney start.js",
-  "scripts": {
-    "test": "start"
-  },
+  "main": "--harmony start.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CSMeppon/tco-dicord-bot.git"
+    "url": "git+https://github.com/CSMellon/tco-dicord-bot.git"
   },
   "keywords": [
     "toonclash"
