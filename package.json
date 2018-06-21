@@ -1,24 +1,24 @@
 {
-  "name": "clash-bot-v2",
+  "name": "toonclash bot",
   "version": "2.0.0",
-  "description": "Corporate Clash Bot version 2",
-  "main": "--harmony start.js",
+  "description": "ToonClash Bot version 2",
+  "main": "--harmoney start.js",
   "scripts": {
     "test": "start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xseano/ClashBotV2.git"
+    "url": "git+https://github.com/CSMeppon/tco-dicord-bot.git"
   },
   "keywords": [
-    "corporateclash"
+    "toonclash"
   ],
-  "author": "Sean Oberoi",
+  "author": "ToonClash Test",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xseano/ClashBotV2/issues"
+    "url": "https://github.com/CSMellon/tco-dicord-bot/issues"
   },
-  "homepage": "https://github.com/xseano/ClashBotV2#readme",
+  "homepage": "https://github.com/CSMellon/tco-dicord-bot#readme",
   "dependencies": {
     "bad-words": "^1.6.1",
     "bufferutil": "^3.0.3",
